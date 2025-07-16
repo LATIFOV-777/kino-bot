@@ -1,0 +1,2 @@
+sql kodlar takrorlash uchun:
+https://www.sqlitetutorial.net/sqlite-cheat-sheet/
