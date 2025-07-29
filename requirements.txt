@@ -1,5 +1,0 @@
-python-telegram-bot==20.7
-python-dotenv
-python-dotenv==1.0.1
-nest_asyncio==1.6.0
-flask==2.1.3
